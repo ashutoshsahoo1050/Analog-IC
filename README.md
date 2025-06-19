@@ -1,6 +1,5 @@
 # Analog-IC
 # Course Information
-Absolutely! Here’s a one-line-at-a-time version for clarity and ease of use:
 
 1. **Analog Integrated Circuits (Analog IC) is a course focused on transistor-level design and analysis of circuits in modern electronics.**
 2. **Learnt About MEMS MIC Using Analog2Discover with waveform applications.**
