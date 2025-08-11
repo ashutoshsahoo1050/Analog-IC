@@ -107,14 +107,6 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 ***
 
-##  Some Advice from Someone Who’s Been There
-
-- **Ask questions—always.** The only dumb question is the one you don’t ask.
-- **Simulate everything.** Try breaking stuff! You’ll learn more fixing it.
-- **Document your process.** Seriously—future-you will thank you.
-- **Take creative detours.** Once you finish a lab, tweak the circuit and see what happens.
-
-***
 
 ##  Thank Yours
 
