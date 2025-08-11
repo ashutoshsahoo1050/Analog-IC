@@ -11,12 +11,6 @@
 8. **Noise, nonlinearity, and mismatch in analog IC design are also discussed to improve real-world circuit robustness.**
 9. **By the end, you will be able to design, simulate, and analyze small to medium-scale analog and mixed-signal ICs.**
  
--  **COURSE OUTCOME**:
-   - Design of Analog ICs in the context of electronic system design
-   - Deriving IC specifications from the host electronic system.
-   - A good understanding of CMOS devices & technology.
-   - Proficiency in analog circuit design and analysis.
-   - Mastery of design tools: ngspice, xscheme, magic & Python.
 
 - **COURSE DETAILS**
   - **Introduction to an electronic system design, a plug-n-play USB-MIDI microphone.**
@@ -52,7 +46,13 @@
 # Summer Internship Program on Analog IC Design  
 *A Student’s Journey & Resource Hub*
 
-***
+***-  **COURSE OUTCOME**:
+   - Design of Analog ICs in the context of electronic system design
+   - Deriving IC specifications from the host electronic system.
+   - A good understanding of CMOS devices & technology.
+   - Proficiency in analog circuit design and analysis.
+   - Mastery of design tools: ngspice, xscheme, magic & Python.
+
 
 ## 👋 Welcome!
 
@@ -69,20 +69,7 @@ I wanted something more than just lectures and theory—I was itching to actuall
 
 ## 🚀 What I Learned (and What You Can Too!)
 
-### Things That Just “Clicked”
-
-- **CMOS Device Physics:** Not just a chapter—it's the magic behind every transistor!
-- **Designing Key Building Blocks:** Built current mirrors, differential amps, and cascodes by hand.
-- **EDA Tools (Open-Source!):**  
-  - **ngspice:** for circuit simulations.
-  - **xschem:** for making my schematics “come alive.”
-  - **magic:** making layouts that actually get fabricated.
-  - **KICAD:** won me over for PCB design.
-  - **Python (numpy, scipy, matplotlib):** because real engineers aren’t afraid of data.
-
-- **“Big Picture” System Design:** Got to see all these blocks power a real-world application—USB-MIDI mic front-end—for the first time.
-
-***
+### 
 
 ## 📅 How the Program Rolled Out
 
