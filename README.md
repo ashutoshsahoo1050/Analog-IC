@@ -4,7 +4,8 @@
 
 # Summer Internship Program on Analog IC Design  
 *A Student’s Journey & Resource Hub*
-*** # Analog-IC
+
+*** Analog-IC**
 # Course Information
 
 1. **Analog Integrated Circuits (Analog IC) is a course focused on transistor-level design and analysis of circuits in modern electronics.**
