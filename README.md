@@ -1,7 +1,46 @@
 
  
 
-- **COURSE DETAILS**
+
+# Summer Internship Program on Analog IC Design  
+*A Student’s Journey & Resource Hub*
+*** # Analog-IC
+# Course Information
+
+1. **Analog Integrated Circuits (Analog IC) is a course focused on transistor-level design and analysis of circuits in modern electronics.**
+2. **Learnt About MEMS MIC Using Analog2Discover with waveform applications.**
+3. **It covers MOS and BJT device modeling, helping you understand how transistors operate in integrated circuits.**
+4. **You will study single-stage and multi-stage amplifiers, current mirrors, and differential pairs as key building blocks.**
+5. **The course explains operational amplifiers (Op-Amps), voltage/current references, and output stage design.**
+6. **Frequency response, feedback, stability, and compensation in analog circuits are analyzed in detail.**
+7. **Practical sessions involve using CAD tools for simulation and verification of circuit performance.**
+8. **Noise, nonlinearity, and mismatch in analog IC design are also discussed to improve real-world circuit robustness.**
+9. **By the end, you will be able to design, simulate, and analyze small to medium-scale analog and mixed-signal ICs.**
+
+***-  COURSE OUTCOME**:
+   - Design of Analog ICs in the context of electronic system design
+   - Deriving IC specifications from the host electronic system.
+   - A good understanding of CMOS devices & technology.
+   - Proficiency in analog circuit design and analysis.
+   - Mastery of design tools: ngspice, xscheme, magic & Python.
+
+
+##  Welcome!
+
+Hello and welcome!  
+If you’re curious about what it’s like to dive into analog IC design—or just looking for some solid, hands-on resources—you’ve landed in the right place. I’m a B.Tech student who recently completed the **Summer Internship Program on Analog Integrated Circuit (IC) Design**, and this repo is both my portfolio and a guide for anyone following in my footsteps.
+
+***
+
+##  Why I Signed Up
+
+I wanted something more than just lectures and theory—I was itching to actually design real circuits, learn industry tools that professionals use, and discover how an abstract MOSFET drawing becomes a working microchip. A USB-MIDI microphone front-end as a project? Count me in!
+
+***
+
+##  What I Learned (and What You Can Too!)
+
+### COURSE DETAILS**
   - **Introduction to an electronic system design, a plug-n-play USB-MIDI microphone.**
     - Microphone pre-amplifier and interface circuit design.
     - Select an widely available Op-Amp for the preamplifier e.g. TI OPA 344
@@ -32,45 +71,6 @@
     - PCB design with Eagle.
     - Reference schematic & PCB will be provided to expedite it.
     - Test & characterization using Python libraries numpy, scipy and matplotlib.
-# Summer Internship Program on Analog IC Design  
-*A Student’s Journey & Resource Hub*
-*** # Analog-IC
-# Course Information
-
-1. **Analog Integrated Circuits (Analog IC) is a course focused on transistor-level design and analysis of circuits in modern electronics.**
-2. **Learnt About MEMS MIC Using Analog2Discover with waveform applications.**
-3. **It covers MOS and BJT device modeling, helping you understand how transistors operate in integrated circuits.**
-4. **You will study single-stage and multi-stage amplifiers, current mirrors, and differential pairs as key building blocks.**
-5. **The course explains operational amplifiers (Op-Amps), voltage/current references, and output stage design.**
-6. **Frequency response, feedback, stability, and compensation in analog circuits are analyzed in detail.**
-7. **Practical sessions involve using CAD tools for simulation and verification of circuit performance.**
-8. **Noise, nonlinearity, and mismatch in analog IC design are also discussed to improve real-world circuit robustness.**
-9. **By the end, you will be able to design, simulate, and analyze small to medium-scale analog and mixed-signal ICs.**
-
-***-  COURSE OUTCOME**:
-   - Design of Analog ICs in the context of electronic system design
-   - Deriving IC specifications from the host electronic system.
-   - A good understanding of CMOS devices & technology.
-   - Proficiency in analog circuit design and analysis.
-   - Mastery of design tools: ngspice, xscheme, magic & Python.
-
-
-## 👋 Welcome!
-
-Hello and welcome!  
-If you’re curious about what it’s like to dive into analog IC design—or just looking for some solid, hands-on resources—you’ve landed in the right place. I’m a B.Tech student who recently completed the **Summer Internship Program on Analog Integrated Circuit (IC) Design**, and this repo is both my portfolio and a guide for anyone following in my footsteps.
-
-***
-
-## 🌱 Why I Signed Up
-
-I wanted something more than just lectures and theory—I was itching to actually design real circuits, learn industry tools that professionals use, and discover how an abstract MOSFET drawing becomes a working microchip. A USB-MIDI microphone front-end as a project? Count me in!
-
-***
-
-## 🚀 What I Learned (and What You Can Too!)
-
-### 
 
 ## 📅 How the Program Rolled Out
 
