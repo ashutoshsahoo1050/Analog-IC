@@ -91,10 +91,9 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 ##  Your Guide to the Repo
 
-- `/materials` – All my lecture notes, slides, and handpicked references.
-- `/labs` – Lab handouts, simulation files, and my own handwritten solution attempts.
-- `/projects` – My mic front-end project and some great examples from friends.
-- `/setup` – Straightforward steps to install and configure all those open-source EDA tools.
+- `/material` – All slides,pdf and handpicked image references.
+- `/Xschem` – My mic front-end project and some great examples from friends.
+- `/ngspice` – Straightforward steps to install and configure all those open-source EDA tools.
 
 ***
 
@@ -110,7 +109,7 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 ##  Thank Yours
 
-Deep gratitude to **Dr. Saroj Rout**, **Prasant Swain**, and **Mrinal Das**—not just for the technical guidance, but for all the encouragement. You made the program what it was!
+Deep gratitude to **Dr. Saroj Rout**, **Prasant Swain**, and **Mrinal Das**—for the technical guidance.
 
 ***
 
