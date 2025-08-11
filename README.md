@@ -15,7 +15,7 @@
 6. **Frequency response, feedback, stability, and compensation in analog circuits are analyzed in detail.**
 7. **Practical sessions involve using CAD tools for simulation and verification of circuit performance.**
 8. **Noise, nonlinearity, and mismatch in analog IC design are also discussed to improve real-world circuit robustness.**
-9. **By the end, you will be able to design, simulate, and analyze small to medium-scale analog and mixed-signal ICs.**
+
 
 # COURSE OUTCOME
    - Design of Analog ICs in the context of electronic system design
@@ -28,7 +28,7 @@
 
 ##  What I Learned (and What You Can Too!)
 
-### COURSE DETAILS**
+### COURSE DETAILS
   - **Introduction to an electronic system design, a plug-n-play USB-MIDI microphone.**
     - Microphone pre-amplifier and interface circuit design.
     - Select an widely available Op-Amp for the preamplifier e.g. TI OPA 344
