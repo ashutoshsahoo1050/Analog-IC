@@ -1,15 +1,4 @@
-# Analog-IC
-# Course Information
 
-1. **Analog Integrated Circuits (Analog IC) is a course focused on transistor-level design and analysis of circuits in modern electronics.**
-2. **Learnt About MEMS MIC Using Analog2Discover with waveform applications.**
-3. **It covers MOS and BJT device modeling, helping you understand how transistors operate in integrated circuits.**
-4. **You will study single-stage and multi-stage amplifiers, current mirrors, and differential pairs as key building blocks.**
-5. **The course explains operational amplifiers (Op-Amps), voltage/current references, and output stage design.**
-6. **Frequency response, feedback, stability, and compensation in analog circuits are analyzed in detail.**
-7. **Practical sessions involve using CAD tools for simulation and verification of circuit performance.**
-8. **Noise, nonlinearity, and mismatch in analog IC design are also discussed to improve real-world circuit robustness.**
-9. **By the end, you will be able to design, simulate, and analyze small to medium-scale analog and mixed-signal ICs.**
  
 
 - **COURSE DETAILS**
@@ -45,8 +34,20 @@
     - Test & characterization using Python libraries numpy, scipy and matplotlib.
 # Summer Internship Program on Analog IC Design  
 *A Student’s Journey & Resource Hub*
+*** # Analog-IC
+# Course Information
 
-***-  **COURSE OUTCOME**:
+1. **Analog Integrated Circuits (Analog IC) is a course focused on transistor-level design and analysis of circuits in modern electronics.**
+2. **Learnt About MEMS MIC Using Analog2Discover with waveform applications.**
+3. **It covers MOS and BJT device modeling, helping you understand how transistors operate in integrated circuits.**
+4. **You will study single-stage and multi-stage amplifiers, current mirrors, and differential pairs as key building blocks.**
+5. **The course explains operational amplifiers (Op-Amps), voltage/current references, and output stage design.**
+6. **Frequency response, feedback, stability, and compensation in analog circuits are analyzed in detail.**
+7. **Practical sessions involve using CAD tools for simulation and verification of circuit performance.**
+8. **Noise, nonlinearity, and mismatch in analog IC design are also discussed to improve real-world circuit robustness.**
+9. **By the end, you will be able to design, simulate, and analyze small to medium-scale analog and mixed-signal ICs.**
+
+***-  COURSE OUTCOME**:
    - Design of Analog ICs in the context of electronic system design
    - Deriving IC specifications from the host electronic system.
    - A good understanding of CMOS devices & technology.
