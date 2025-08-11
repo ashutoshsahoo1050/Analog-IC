@@ -93,7 +93,7 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 - `/material` – All slides,pdf and handpicked image references.
 - `/Xschem` – My mic front-end project and some great examples from friends.
-- `/ngspice` – Straightforward steps to install and configure all those open-source EDA tools.
+- `/ngspice` – Simulator in different tools, both free and commercial
 
 ***
 
