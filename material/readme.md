@@ -7,7 +7,5 @@
 <img width="704" height="450" alt="Screenshot 2025-06-17 151013" src="https://github.com/user-attachments/assets/5553481f-0ade-4741-a6f0-88d9cce1878e" />
 <img width="705" height="485" alt="Screenshot 2025-06-17 165332" src="https://github.com/user-attachments/assets/300215c1-f938-45ef-9963-206c07352e5a" />
 <img width="1174" height="729" alt="Screenshot 2025-06-18 124404" src="https://github.com/user-attachments/assets/abcd6f1b-1134-498f-901b-3874e0c0c5c1" />
-![WhatsApp Image 2025-06-11 at 8 32 28 PM - Copy](https://github.com/user-attachments/assets/022647ea-66a4-4e55-a069-8fd194f7d214)
-![WhatsApp Image 2025-06-11 at 8 32 33 PM - Copy](https://github.com/user-attachments/assets/c7c481a0-f663-4eb9-9713-7a796388ede2)
 
 ![WhatsApp Image 2025-08-11 at 7 11 19 PM](https://github.com/user-attachments/assets/2e838d78-4bec-4c4c-ab10-fe344b8929bc)
