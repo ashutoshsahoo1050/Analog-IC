@@ -60,7 +60,7 @@
     - Reference schematic & PCB will be provided to expedite it.
     - Test & characterization using Python libraries numpy, scipy and matplotlib.
 
-## 📅 How the Program Rolled Out
+##  How the Program Rolled Out
 
 - **Duration:** 3 weeks, ~100 hours (it flies by!)
 - **Setup:** Split between morning theory, afternoon labs, and a final project sprint.
@@ -76,7 +76,7 @@
 
 ***
 
-## 🎯 My Personal Project
+##  My Personal Project
 
 My main focus? Designing the full analog front-end for a **USB-MIDI microphone**. The journey:
 
@@ -89,7 +89,7 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 ***
 
-## 🗂️ Your Guide to the Repo
+##  Your Guide to the Repo
 
 - `/materials` – All my lecture notes, slides, and handpicked references.
 - `/labs` – Lab handouts, simulation files, and my own handwritten solution attempts.
@@ -98,7 +98,7 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 ***
 
-## ✨ What Made This Special
+##  What Made This Special
 
 - **Everything was hands-on:** We didn’t just read; we designed, we built, we tested.
 - **True open-source:** You can do all of this at home—no licenses, just learning.
@@ -107,7 +107,7 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 ***
 
-## 📝 Some Advice from Someone Who’s Been There
+##  Some Advice from Someone Who’s Been There
 
 - **Ask questions—always.** The only dumb question is the one you don’t ask.
 - **Simulate everything.** Try breaking stuff! You’ll learn more fixing it.
@@ -116,13 +116,13 @@ If you want to peek at all the files—simulations, code, even my final report�
 
 ***
 
-## 👏 Thank Yous
+##  Thank Yours
 
 Deep gratitude to **Dr. Saroj Rout**, **Prasant Swain**, and **Mrinal Das**—not just for the technical guidance, but for all the encouragement. You made the program what it was!
 
 ***
 
-## 📄 License
+##  License
 
 All materials are for learning and sharing only—please credit anyone whose work you use or remix.
 
