@@ -1,1 +1,1 @@
-This folder contain ngspice files
+This folder contain ngspice sp files
