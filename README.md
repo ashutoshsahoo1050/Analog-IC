@@ -17,24 +17,12 @@
 8. **Noise, nonlinearity, and mismatch in analog IC design are also discussed to improve real-world circuit robustness.**
 9. **By the end, you will be able to design, simulate, and analyze small to medium-scale analog and mixed-signal ICs.**
 
-***-  COURSE OUTCOME**:
+# COURSE OUTCOME
    - Design of Analog ICs in the context of electronic system design
    - Deriving IC specifications from the host electronic system.
    - A good understanding of CMOS devices & technology.
    - Proficiency in analog circuit design and analysis.
    - Mastery of design tools: ngspice, xscheme, magic & Python.
-
-
-##  Welcome!
-
-Hello and welcome!  
-If you’re curious about what it’s like to dive into analog IC design—or just looking for some solid, hands-on resources—you’ve landed in the right place. I’m a B.Tech student who recently completed the **Summer Internship Program on Analog Integrated Circuit (IC) Design**, and this repo is both my portfolio and a guide for anyone following in my footsteps.
-
-***
-
-##  Why I Signed Up
-
-I wanted something more than just lectures and theory—I was itching to actually design real circuits, learn industry tools that professionals use, and discover how an abstract MOSFET drawing becomes a working microchip. A USB-MIDI microphone front-end as a project? Count me in!
 
 ***
 
